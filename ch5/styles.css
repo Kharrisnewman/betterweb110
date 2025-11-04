@@ -1,0 +1,59 @@
+/*kelsey harris september 26 2025 - week 5 images */
+nav {
+    height: 35px;
+}
+
+main {
+    font-weight: bold;
+    background-image: url(background.webp);
+    background-repeat: repeat-x;
+}
+
+body {
+    font-family: "arial", sans-serif;
+    background-color: #d7c7aa;
+    color: #bb161a;
+    font-size: 16px;
+}
+
+header {
+    background-color: #29485d;
+
+    color: #ffffff;
+    background-color: #00602b; /*Green for italian vibe*/
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2, h3 {
+    color: #342517;
+    background-color: #ffffff;
+}
+
+p {
+    color: #230e06;
+    background-color: #ffffff;
+}
+
+span{ 
+    font-weight: bold;
+    color: #ee1e28;
+    font-style: italic;
+}
+
+div::special-item{
+    background-color:#ffffff;
+}
+
+footer{
+    text-align:center;
+    color:#ffffff;
+    background-color: #bb161d;
+}
+
+div::white-background-section {
+    background-color: #ffffff;
+    color:#ffffff;
+}
